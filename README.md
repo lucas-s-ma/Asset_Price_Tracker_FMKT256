@@ -6,4 +6,4 @@ Journal.ipynb outputs the asset prices currently being traded. The order of asse
 
 Please note that for continuously traded securities, the value printed will be the price currently traded. 
 
-Depends on network environment, this program file takes around 15 seconds to print out the result.
+Depends on network environment, this program file takes around 15 seconds to print out the result. 
